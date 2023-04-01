@@ -1,0 +1,1 @@
+function scrollTo(o){window.scroll({left:0,top:o.offsetTop,behavior:"smooth"})}var albumLink=document.querySelector(".album__link"),aboutLink=document.querySelector(".about__link"),album=document.querySelector("#album"),about=document.querySelector("#about");albumLink.addEventListener("click",(()=>{scrollTo(album)})),aboutLink.addEventListener("click",(()=>{scrollTo(about)}));
