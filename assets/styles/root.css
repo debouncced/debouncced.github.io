@@ -1,0 +1,48 @@
+/* MONTSERRAT */
+@font-face {
+	font-family: 'Montserrat Bold';
+	src: url('../fonts/montserrat/Montserrat-Bold.woff2') format('woff2'), url('../fonts/montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Black';
+	src: url('../fonts/montserrat/Montserrat-Black.woff2') format('woff2'), url('../fonts/montserrat/Montserrat-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Light';
+	src: url('../fonts/montserrat/Montserrat-Light.woff2') format('woff2'), url('../fonts/montserrat/Montserrat-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Medium';
+	src: url('../fonts/montserrat/Montserrat-Medium.woff2') format('woff2'), url('../fonts/montserrat/Montserrat-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Montserrat Regular';
+	src: url('../fonts/montserrat/Montserrat-Regular.woff2') format('woff2'), url('../fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+/* ROBOTO MONO */
+@font-face {
+	font-family: 'Roboto Mono Regular';
+	src: url('../fonts/roboto_mono/RobotoMono-Regular.woff2') format('woff2'), url('../fonts/roboto_mono/RobotoMono-Regular.ttf') format('truetype');
+}
+
+/* CAVEAT */
+@font-face {
+	font-family: 'Caveat Regular';
+	src: url('../fonts/caveat/Caveatregular.woff2') format('woff2'), url('../fonts/caveat/Caveatregular.ttf') format('truetype');
+}
+
+/* BEBAS NENUE */
+@font-face {
+	font-family: 'Bebas Nenue Regular';
+	src: url('../fonts/bebas_nenue/bebasneueregular.woff2') format('woff2'), url('../fonts/bebas_nenue/bebasneueregular.ttf') format('truetype');
+}
+
+:root {
+    --background-color-1: #1D1C22;
+    --background-color-2: #212027;
+    --font-color: #53F6C9;
+    --black-color: #151515;
+    --gray-color: #D3D3D3;
+	--white-color: #FFFFFF;
+}
